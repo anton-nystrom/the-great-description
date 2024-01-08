@@ -1,4 +1,3 @@
-
 # The Great Description
 
 This is a web app to generate Youtube descriptions based on inputs.
